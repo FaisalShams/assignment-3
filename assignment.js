@@ -1,4 +1,4 @@
-// https://github.com/FaisalShams/assignment-3
+//https://github.com/FaisalShams/assignment-3
 function kilometerToMeter(kilometer){
     var meter = kilometer * 1000;
     return meter;
